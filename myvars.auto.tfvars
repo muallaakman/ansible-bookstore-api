@@ -1,0 +1,11 @@
+//aws_access_key = ""
+//aws_secret_key = ""
+myami = "ami-00beae93a2d981137"
+mykey = "firstkey"
+tags = ["web_server", "mysql_server"]
+instancetype = "t2.micro"
+controlinstancetype = "t2.micro"
+num = 2
+region = "us-east-1"
+mysecgr = "docker-to-ansible-project-sec-gr"
+user = "erol"
